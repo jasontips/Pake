@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
-      "identifier": "com.tw93.weread",
+      "icon": ["png/ai-icon.ico", "png/ai-icon.ico"],
+      "identifier": "com.chatbot.52ai",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/ai-icon.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {
