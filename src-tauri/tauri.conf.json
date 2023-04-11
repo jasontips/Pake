@@ -11,7 +11,7 @@
       "active": false
     },
     "systemTray": {
-      "iconPath": "png/ai-icon.png",
+      "iconPath": "png/chatbot_512.png",
       "iconAsTemplate": true
     },
     "allowlist": {
