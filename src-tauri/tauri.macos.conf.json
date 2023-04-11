@@ -1,7 +1,7 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/ai-icon.icns"],
+      "icon": ["icons/chatbot.icns"],
       "identifier": "com.chatbot.52ai",
       "active": true,
       "category": "DeveloperTool",
