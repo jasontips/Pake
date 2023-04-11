@@ -1,8 +1,8 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/weread.icns"],
-      "identifier": "com.tw93.weread1",
+      "icon": ["icons/ai-icon.icns"],
+      "identifier": "com.chatbot.52ai",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
